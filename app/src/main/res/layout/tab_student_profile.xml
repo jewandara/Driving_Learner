@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:padding="30px">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAlignment="center">
+
+                    <ImageView
+                        android:id="@+id/imgLogo"
+                        android:layout_width="80px"
+                        android:layout_height="80px"
+                        android:src="@drawable/profile"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:paddingTop="15px"
+                        android:layout_marginLeft="10px"
+                        android:text= "STUDENT"
+                        android:id="@+id/textUserType"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_column="1"
+                        android:textColor="@color/background_material_dark"
+                        android:textSize="50px" />
+
+                </TableRow>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textFullName"
+                    android:layout_gravity="center_horizontal" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textUserID"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textPakage"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textGender"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textBithDay"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textNatiolPasPortID"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textContactNumber"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textOther"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_marginTop="25px"
+                    android:text= "UserType"
+                    android:id="@+id/textInsertedDate"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="30px" />
+
+            </TableLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

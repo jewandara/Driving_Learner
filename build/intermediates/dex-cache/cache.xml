@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_0eafc57390cde587cadbbea46e90869ad545796d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3ad3b88863e29da31b2f9e4d7ddee8cd8941edf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c687e9f383bbc69b590401792982db708a07bbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\ksoap2\ksoap2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\ksoap2_7f5cc72059fefdc4350230cd13e8443e23f39103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_3b6580f7a612d729aed119ee4c898e311e5b7ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3ad3b88863e29da31b2f9e4d7ddee8cd8941edf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_3b6580f7a612d729aed119ee4c898e311e5b7ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_f1eb5a377605ea01071b5f448135073577d1892b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f75b50fab59ec648a1f661cfb29b7d8ebb67a7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1c3544ed0a1357e1b45f2261a7dab33146a1305f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1c3544ed0a1357e1b45f2261a7dab33146a1305f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_0eafc57390cde587cadbbea46e90869ad545796d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f75b50fab59ec648a1f661cfb29b7d8ebb67a7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_ce278102037b99ba528a2601c86dab92da9f3bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0a05c8ebd5a03ac235a08fb0b8cda38a78b46816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0a05c8ebd5a03ac235a08fb0b8cda38a78b46816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_861fe1153a919f52d4664d419b58cf07e0a10e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cea064ac9d45bd30300e7a4082cca9d5b146947b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_30cc849d5f68e023684be172d3a6c7f0e691044b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_8da1dbdaa39b73169a62b48259e875408c83448e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_4af28777881c552423db05c8b2ef53307e56acc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_ce278102037b99ba528a2601c86dab92da9f3bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_30cc849d5f68e023684be172d3a6c7f0e691044b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_5d2b3c39e16e1fae0deed28711516616f36422fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_738cec07862ff254f034629464adde011f80aae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_f1eb5a377605ea01071b5f448135073577d1892b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_5d2b3c39e16e1fae0deed28711516616f36422fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_738cec07862ff254f034629464adde011f80aae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c687e9f383bbc69b590401792982db708a07bbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_ee487968354cdc47db7bc88b9c0a1951a707c552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_ee487968354cdc47db7bc88b9c0a1951a707c552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_8da1dbdaa39b73169a62b48259e875408c83448e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cea064ac9d45bd30300e7a4082cca9d5b146947b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_861fe1153a919f52d4664d419b58cf07e0a10e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\EWEO\Desktop\ANDLEARNS\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_4af28777881c552423db05c8b2ef53307e56acc4.jar" />
+    </item>
+
+</items>

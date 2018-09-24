@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:padding="30px">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAlignment="center">
+
+                    <ImageView
+                        android:id="@+id/imgLogo"
+                        android:layout_width="80px"
+                        android:layout_height="80px"
+                        android:src="@drawable/schedul"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:paddingTop="15px"
+                        android:layout_marginLeft="10px"
+                        android:layout_marginTop="25px"
+                        android:text= "SCHEDULE"
+                        android:id="@+id/textUserType"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_column="2"
+                        android:textColor="@color/background_material_dark"
+                        android:textSize="50px"
+                        android:textIsSelectable="true" />
+
+                </TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="5px"
+                    android:text= "Loading..."
+                    android:id="@+id/textViewLoading"
+                    android:textColor="@color/background_material_dark"
+                    android:textSize="12px" />
+
+                <GridView
+                    android:id="@+id/grid"
+                    android:layout_width="fill_parent"
+                    android:layout_height="500dp"
+                    android:columnWidth="90dp"
+                    android:verticalSpacing="10dp"
+                    android:horizontalSpacing="10dp"
+                    android:stretchMode="columnWidth"
+                    android:gravity="center"
+                    android:numColumns="1"
+                    />
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    </RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/main_layout"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivityStudent"
+    android:background="@drawable/background2"
+    android:weightSum="1">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:title="Helliii"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="LEARNER DRIVE"
+            android:id="@+id/textViewTitle" />
+    </android.support.v7.widget.Toolbar>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_margin="25px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" GO BACK"
+        android:id="@+id/buttonGoBack"
+        android:textColor="#ffffff"
+        android:background="@android:color/background_dark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10px"
+        android:paddingLeft="40px"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="\n____________________________"
+        android:id="@+id/textViewSubTitle"
+        android:textAlignment="center"/>
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10px"
+        android:paddingLeft="40px"
+        android:paddingBottom="4px"
+        android:layout_height="match_parent"
+        android:columnWidth="90dp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:scrollbars="vertical"
+        android:numColumns="1"
+        android:layout_weight="0.4" />
+
+</LinearLayout>

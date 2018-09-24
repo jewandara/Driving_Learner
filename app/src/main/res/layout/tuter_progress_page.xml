@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/main_layout"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivityStudent"
+    android:background="@drawable/background2">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:title="Helliii"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="LEARNER DRIVE"
+            android:id="@+id/textViewTitle" />
+    </android.support.v7.widget.Toolbar>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_marginLeft="35px"
+        android:layout_marginRight="35px"
+        android:layout_marginBottom="5px"
+        android:layout_marginTop="10px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" GO BACK"
+        android:id="@+id/buttonGoBack"
+        android:textColor="#ffffff"
+        android:background="@android:color/background_dark"/>
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_marginLeft="35px"
+        android:layout_marginRight="35px"
+        android:layout_marginBottom="10px"
+        android:layout_marginTop="5px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" SAVE PROGRESS"
+        android:id="@+id/buttonSave"
+        android:textColor="#ffffff"
+        android:background="@android:color/background_dark" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10px"
+        android:paddingLeft="40px"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Loading..."
+        android:id="@+id/textViewSubTitle"
+        android:textAlignment="center"
+        android:textSize="20px"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="5px"
+        android:paddingLeft="40px"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="--------------------------------------->"
+        android:id="@+id/textViewBarLine"
+        android:textAlignment="center"
+        android:textSize="20px"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="50px">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="10px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Time :"
+                android:id="@+id/textProgressTime"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarTime"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Start :"
+                android:id="@+id/textProgressStart"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarStart"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Gass :"
+                android:id="@+id/textProgressGass"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarGass"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Brake :"
+                android:id="@+id/textProgressBrake"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarBrake"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Nuter :"
+                android:id="@+id/textProgressNuter"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarNuter"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Gier :"
+                android:id="@+id/textProgressGier"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarGier"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Stering Wheel :"
+                android:id="@+id/textSteringWheel"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarSteringWheel"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Speed :"
+                android:id="@+id/textProgressSpeed"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarSpeed"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginTop="25px"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Progress Stop :"
+                android:id="@+id/textProgressStop"
+                android:textAlignment="center"
+                android:textSize="35px"/>
+            <RatingBar
+                android:id="@+id/ratingBarStop"
+                android:layout_marginTop="1px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="10"
+                android:rating="0"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
